@@ -135,6 +135,7 @@ win = tk.Tk()
 win.title("YouTube Video Downloader")
 win.geometry("500x400")
 #win.columnconfigure(0,weight=1)
+win.iconbitmap(r'Import_File_Downloaded_Download_icon.ico')
 
 
 
